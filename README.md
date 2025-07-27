@@ -21,4 +21,4 @@ Each project is inside its own folder, containing:
 To view any project:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DEEPAK-M204/frontend-mini-projects.git
+   git clone "https://github.com/DEEPAK-M204/frontend-mini-projects.git"
